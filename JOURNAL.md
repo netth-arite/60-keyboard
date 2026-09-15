@@ -1,8 +1,8 @@
 ---
-title: Reze 60% keyboard
-author: netth
-description: a custom 60% layout keybout with reze theme :)
-created_at: 9/14/2026
+Title: Reze 60% keyboard
+Author: netth
+Description: a custom 60% layout keybout with reze theme :)
+Created_at: 9/14/2026
 ---
 
 # September 14: Designed the PCB schematic basics
